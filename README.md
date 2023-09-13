@@ -50,7 +50,7 @@ To do this, just **double-click on the task** and start editing the text, it's s
 
 ## 🗑️ Delete tasks
 If you decide that you no longer need a task, simply remove it from the list. We make it easy and painless, just hover your cursor over the task in question and you'll see an **X** button to the right of the task.
-![Delete task button](https://img001.prntscr.com/file/img001/-U5ljPEPRpOyPyv8cHpIXg.png)<br />
+![Delete task button](https://img001.prntscr.com/file/img001/-U5ljPEPRpOyPyv8cHpIXg.png)<br /><br />
 Of course, if you already have a bunch of completed tasks, you can easily do this by **clicking on the Clear completed** button
 ![Delete completed tasks](https://img001.prntscr.com/file/img001/_MbC2eL_TeecdgKm28A4ew.png)<br />
 Or you can start **modifying the job text as above**, but **make a empty field** and then the task will be deleted as well
