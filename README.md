@@ -47,7 +47,7 @@ If you decide that you no longer need a task, simply remove it from the list. We
 the task.
 ![Delete task button](https://img001.prntscr.com/file/img001/-U5ljPEPRpOyPyv8cHpIXg.png)
 
-Of course, if you already have a bunch of completed tasks, you can easily do this by **clicking on the Clear completed** button
+Of course, if you already have a bunch of completed tasks, you can easily do this by **clicking on the Clear completed** button  
 ![Delete completed tasks](https://img001.prntscr.com/file/img001/_MbC2eL_TeecdgKm28A4ew.png)
 Or you can start **modifying the job text as above**, but **make a empty field** and then the task will be deleted as well
 <table>
@@ -56,7 +56,6 @@ Or you can start **modifying the job text as above**, but **make a empty field**
     <td><img src="https://img001.prntscr.com/file/img001/541HvBDqREWbKWpos5GOqw.png" alt="clear task title"></td>
     <td><img src="https://img001.prntscr.com/file/img001/GGICVzUWSTecBOvJ9XwYWA.png" alt="deleted task"></td>
   </tr>
-
 </table>
 
 ### 🔍 Filteration of tasks
