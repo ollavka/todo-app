@@ -8,7 +8,6 @@ This web app is a simple list of tasks you need to complete in the near future. 
 * Change and edit tasks
 * Delete tasks
 * Filteration of tasks
-<br/>
 
 ### 🆕 Add new tasks
 To become the best version of yourself, you need to set new tasks and complete them!
@@ -24,7 +23,9 @@ Using our web app, adding new tasks is easy! Just **enter the text of your task 
 There's nothing more satisfying than marking tasks as completed. Just click on the **checkbox to the left of the task** and it becomes a confirmation of success! If you accidentally marked a task as completed or simply realise it's not completed, it's easy to fix: just **click on the same checkbox** to make it active again!
 <br />
 ![Completed chekbox](https://img001.prntscr.com/file/img001/9I03N-pkQkS0OFer9u6Trw.png)
+<br />
 If you want to mark all uncompleted tasks as completed, simply click on the **button to the left of the text box**. If all tasks are marked equally as completed or active, this button will change all tasks to the opposite status (active to completed, completed to active)
+<br />
 ![Completed chekbox](https://img001.prntscr.com/file/img001/d8jcEqXoSpqcFrFzrT6cag.png)
 
 ### ✏️ Change and edit tasks
