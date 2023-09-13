@@ -13,7 +13,6 @@ This web app is a simple list of tasks you need to complete in the near future. 
 ### 🆕 Add new tasks
 To become the best version of yourself, you need to set new tasks and complete them!
 Using our web app, adding new tasks is easy! Just **enter the text of your task in the text field** and **press Enter** and the new task will appear before your eyes, good luck with it!
-<br/>
 
 <table>
   <tr>
@@ -87,5 +86,7 @@ Our React Todo App is decorated with a minimalistic and modern design that will 
 <br/>
 
 ### 🏃 How to run app
-If you've made it this far, you should be familiar with the basic functionality of our web app and are ready to get better with us! If you missed something, we recommend that you go back up and read the full tutorial. To start tracking your tasks, just follow this link: //. Good luck!😉
+If you've made it this far, you should be familiar with the basic functionality of our web app and are ready to get better with us! If you missed something, we recommend that you go back up and read the full tutorial.
+To start tracking your tasks, just follow this link: [Todo App](https://ollavka.github.io/todo-app/)
+Good luck!😉
 
