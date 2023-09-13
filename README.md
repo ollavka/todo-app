@@ -81,6 +81,8 @@ Our React Todo App is decorated with a minimalistic and modern design that will 
 
 ### 🏃 How to run app
 If you've made it this far, you should be familiar with the basic functionality of our web app and are ready to get better with us! If you missed something, we recommend that you go back up and read the full tutorial.
+<br />
 To start tracking your tasks, just follow this link: [Todo App](https://ollavka.github.io/todo-app/)
+<br />
 Good luck!😉
 
