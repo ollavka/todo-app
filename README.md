@@ -48,7 +48,8 @@ the task.
 ![Delete task button](https://img001.prntscr.com/file/img001/-U5ljPEPRpOyPyv8cHpIXg.png)
 
 Of course, if you already have a bunch of completed tasks, you can easily do this by **clicking on the Clear completed** button  
-![Delete completed tasks](https://img001.prntscr.com/file/img001/_MbC2eL_TeecdgKm28A4ew.png)  
+![Delete completed tasks](https://img001.prntscr.com/file/img001/_MbC2eL_TeecdgKm28A4ew.png)
+<br />
 Or you can start **modifying the job text as above**, but **make a empty field** and then the task will be deleted as well
 <table>
   <tr>
