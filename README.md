@@ -7,8 +7,9 @@ This web app is a simple list of tasks you need to complete in the near future. 
 * [Change and edit tasks](#change-and-edit-tasks)
 * [Delete tasks](#delete-tasks)
 * [Filteration of tasks](#filteration-of-tasks)
-* [Start](#start)<br />
+* [Start](#start)
 
+<br />
 <a id="add-new-tasks"></a>
 
 ### 🆕 Add new tasks
