@@ -28,6 +28,8 @@ Using our web app, adding new tasks is easy! Just **enter the text of your task 
 ### ✅ Mark tasks as completed
 There's nothing more satisfying than marking tasks as completed. Just click on the **checkbox to the left of the task** and it becomes a confirmation of success! If you accidentally marked a task as completed or simply realise it's not completed, it's easy to fix: just **click on the same checkbox** to make it active again!
 ![Completed chekbox](https://img001.prntscr.com/file/img001/9I03N-pkQkS0OFer9u6Trw.png)
+
+<br />
 If you want to mark all uncompleted tasks as completed, simply click on the **button to the left of the text box**. If all tasks are marked equally as completed or active, this button will change all tasks to the opposite status (active to completed, completed to active)
 ![Completed chekbox](https://img001.prntscr.com/file/img001/d8jcEqXoSpqcFrFzrT6cag.png)
 
@@ -54,7 +56,13 @@ To do this, just **double-click on the task** and start editing the text, it's s
 ### 🗑️ Delete tasks
 If you decide that you no longer need a task, simply remove it from the list. We make it easy and painless, just hover your cursor over the task in question and you'll see an **X** button to the right of the task.
 ![Delete task button](https://img001.prntscr.com/file/img001/-U5ljPEPRpOyPyv8cHpIXg.png)
+
+<br />
+
 Of course, if you already have a bunch of completed tasks, you can easily do this by **clicking on the Clear completed** button
+
+<br />
+
 ![Delete completed tasks](https://img001.prntscr.com/file/img001/_MbC2eL_TeecdgKm28A4ew.png)
 Or you can start **modifying the job text as above**, but **make a empty field** and then the task will be deleted as well
 <table>
@@ -74,14 +82,17 @@ All for your convenience!
 ![Delete completed tasks](https://img001.prntscr.com/file/img001/nrsy6BnBTquSLeQW-vcTcA.png)
 
 <br />
+
 ### 🖥️ Working with the server
 All your data is stored on the server, which makes our app extremely reliable and ensures that you can access your task list from any device.
 
 <br />
+
 ### 🌟 Minimalistic and beautiful design
 Our React Todo App is decorated with a minimalistic and modern design that will make you happy while using it.
 
 <br />
+
 ### 💫 Technologies
 * HTML5
 * CSS3/SCSS
