@@ -1,5 +1,5 @@
 # 📝 Todo App
-This web app is a simple list of tasks you need to complete in the near future. You can add, modify, and delete your tasks. In addition to these options, you can also see the number of tasks that are still pending at any time, as well as filter tasks and delete completed tasks with just one click. **Let's learn how to use it in more detail!**
+This web app is a simple list of tasks you need to complete in the near future. You can add, modify, and delete your tasks. In addition to these options, you can also see the number of tasks that are still pending at any time, as well as filter tasks and delete completed tasks with just one click. **Let's learn how to use it in more detail!**<br />
 
 ### 🌐 Functional
 * [Add new tasks](#add-new-tasks)
@@ -7,7 +7,7 @@ This web app is a simple list of tasks you need to complete in the near future. 
 * [Change and edit tasks](#change-and-edit-tasks)
 * [Delete tasks](#delete-tasks)
 * [Filteration of tasks](#filteration-of-tasks)
-* [Start](#start)
+* [Start](#start)<br />
 
 <a id="add-new-tasks"></a>
 
@@ -19,7 +19,7 @@ Using our web app, adding new tasks is easy! Just **enter the text of your task 
     <td><img src="https://img001.prntscr.com/file/img001/w15suBJ4Rx6toTX6dxzx6g.png" alt="adding new task"></td>
     <td><img src="https://img001.prntscr.com/file/img001/MglQAEDsQya_lNLRfyfofg.png" alt="added new task"></td>
   </tr>
-</table>
+</table><br />
 
 <a id="mark-tasks-as-completed"></a>
 
@@ -27,7 +27,7 @@ Using our web app, adding new tasks is easy! Just **enter the text of your task 
 There's nothing more satisfying than marking tasks as completed. Just click on the **checkbox to the left of the task** and it becomes a confirmation of success! If you accidentally marked a task as completed or simply realise it's not completed, it's easy to fix: just **click on the same checkbox** to make it active again!<br />
 ![Completed chekbox](https://img001.prntscr.com/file/img001/9I03N-pkQkS0OFer9u6Trw.png)<br />
 If you want to mark all uncompleted tasks as completed, simply click on the **button to the left of the text box**. If all tasks are marked equally as completed or active, this button will change all tasks to the opposite status (active to completed, completed to active)<br />
-![Completed chekbox](https://img001.prntscr.com/file/img001/d8jcEqXoSpqcFrFzrT6cag.png)
+![Completed chekbox](https://img001.prntscr.com/file/img001/d8jcEqXoSpqcFrFzrT6cag.png)<br />
 
 <a id="change-and-edit-tasks"></a>
 
@@ -43,7 +43,7 @@ To do this, just **double-click on the task** and start editing the text, it's s
     <td><img src="https://img001.prntscr.com/file/img001/yX1iAQgTSXCa2RP26p_Tmg.png" alt="changing task title"></td>
     <td><img src="https://img001.prntscr.com/file/img001/9aeLXPr7RhSIuihZUL7aIw.png" alt="changed task title"></td>
   </tr>
-</table>
+</table><br />
 
 <a id="delete-tasks"></a>
 
@@ -59,20 +59,20 @@ Or you can start **modifying the job text as above**, but **make a empty field**
     <td><img src="https://img001.prntscr.com/file/img001/541HvBDqREWbKWpos5GOqw.png" alt="clear task title"></td>
     <td><img src="https://img001.prntscr.com/file/img001/GGICVzUWSTecBOvJ9XwYWA.png" alt="deleted task"></td>
   </tr>
-</table>
+</table><br />
 
 <a id="filteration-of-tasks"></a>
 
 ### 🔍 Filteration of tasks
 In our application, there is also an opportunity to show not only all tasks, but also to select separately which tasks are currently active or which tasks are still pending. To do this, **select one of the buttons at the bottom of the application** (the bottom panel will not be visible if there are no tasks).
 All for your convenience!
-![Delete completed tasks](https://img001.prntscr.com/file/img001/nrsy6BnBTquSLeQW-vcTcA.png)
+![Delete completed tasks](https://img001.prntscr.com/file/img001/nrsy6BnBTquSLeQW-vcTcA.png)<br />
 
 ### 🖥️ Working with the server
-All your data is stored on the server, which makes our app extremely reliable and ensures that you can access your task list from any device.
+All your data is stored on the server, which makes our app extremely reliable and ensures that you can access your task list from any device.<br />
 
 ### 🌟 Minimalistic and beautiful design
-Our React Todo App is decorated with a minimalistic and modern design that will make you happy while using it.
+Our React Todo App is decorated with a minimalistic and modern design that will make you happy while using it.<br />
 
 ### 💫 Technologies
 * HTML5
@@ -81,7 +81,7 @@ Our React Todo App is decorated with a minimalistic and modern design that will 
 * TypeScript
 * React.js
 * Bulma
-* React Transition Group / CSS transition
+* React Transition Group / CSS transition<br />
 
 <a id="start"></a>
 
